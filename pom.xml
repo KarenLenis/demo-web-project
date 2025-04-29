@@ -28,7 +28,7 @@
     </dependency>
     <dependency>
       <groupId>com.mysql</groupId>
-      <artifacId>mysql-connector-j</artifactId>
+      <artifactId>mysql-connector-j</artifactId>
       <version>8.4.0</version>
       <scope>test</scope>
     </dependency>
